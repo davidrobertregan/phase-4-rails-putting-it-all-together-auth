@@ -40,4 +40,4 @@ group :test do
   gem 'shoulda-matchers', '~> 4.0'
 end
 
-gem "active_model_serializers", "~> 0.10.12"
+gem 'active_model_serializers'
